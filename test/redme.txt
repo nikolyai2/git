@@ -1,0 +1,2 @@
+новая строка для git
+hello, git cherry-pick
